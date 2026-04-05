@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Angeline Juma
-
-A computer science student just getting started in tech and hungry to learn.  
+  
 Currently leveling up in coding, networking, and cybersecurity.
 ---
 
